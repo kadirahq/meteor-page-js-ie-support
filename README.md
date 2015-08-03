@@ -1,1 +1,1 @@
-# flow-router-ie
+# meteor-page-js-ie-support
